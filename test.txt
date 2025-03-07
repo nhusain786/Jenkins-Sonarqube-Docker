@@ -1,2 +1,0 @@
-This file is for checking webhook function
-We are using this for devOps pipeline
